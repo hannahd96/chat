@@ -19,9 +19,9 @@ git clone 'github link goes there' (no quotes)
 git init
 git add .
 git commit -m "a comment goes in there"
-git remote add 'github link goes there' (no quotes)
---- login using the email and password ---
+git remote add origin 'github link goes there' (no quotes)
 git push origin master
+--- login using the email and password ---
 git push -f origin master
 ```
 
